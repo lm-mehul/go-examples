@@ -1,0 +1,8 @@
+
+Download the pre trained model : 
+
+wget https://github.com/GantMan/nsfw_model/releases/download/1.1.0/nsfw_mobilenet_v2_140_224.zip
+
+extract the model from zip : 
+
+unzip nsfw_mobilenet_v2_140_224.zip -d nsfw_model
