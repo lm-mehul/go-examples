@@ -1,6 +1,6 @@
 
 # Image 1
-curl -X POST http://localhost:5000/api/v1/ad-quality \
+curl -X POST http://23.108.100.104:6969/api/v1/ad-quality \
 -H "Content-Type: application/json" \
 -d '{
     "id": 1,
@@ -8,7 +8,7 @@ curl -X POST http://localhost:5000/api/v1/ad-quality \
 }'
 
 # Image 2
-curl -X POST http://localhost:5000/api/v1/ad-quality \
+curl -X POST http://localhost:6969/api/v1/ad-quality \
 -H "Content-Type: application/json" \
 -d '{
     "id": 2,
@@ -17,7 +17,7 @@ curl -X POST http://localhost:5000/api/v1/ad-quality \
 
 
 # Image 3
-curl -X POST http://localhost:5000/api/v1/ad-quality \
+curl -X POST http://localhost:6969/api/v1/ad-quality \
 -H "Content-Type: application/json" \
 -d '{
     "id": 3,
@@ -25,7 +25,7 @@ curl -X POST http://localhost:5000/api/v1/ad-quality \
 }'
 
 # Image 4
-curl -X POST http://localhost:5000/api/v1/ad-quality \
+curl -X POST http://localhost:6969/api/v1/ad-quality \
 -H "Content-Type: application/json" \
 -d '{
     "id": 4,
@@ -33,7 +33,7 @@ curl -X POST http://localhost:5000/api/v1/ad-quality \
 }'
 
 # Image 5
-curl -X POST http://localhost:5000/api/v1/ad-quality \
+curl -X POST http://localhost:6969/api/v1/ad-quality \
 -H "Content-Type: application/json" \
 -d '{
     "id": 5,
